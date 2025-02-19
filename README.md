@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="image/banner.png"  />
+  <img height="200" src="image/banner.png"  />
 </div>
 
 ###
@@ -62,5 +62,9 @@
   <img src="https://streak-stats.demolab.com?user=RAFazarikha&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RAFazarikha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/RAFazarikha/RAFazarikha/output/snake.svg" alt="Snake animation" />
 
 ###
