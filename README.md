@@ -68,3 +68,9 @@
 <img src="https://raw.githubusercontent.com/RAFazarikha/RAFazarikha/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RAFazarikha/count.svg?"  />
+</div>
+
+###
