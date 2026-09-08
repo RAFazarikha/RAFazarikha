@@ -1,31 +1,27 @@
-<div align="center">
-  <img src="image/banner.png" width="100%" alt="banner" />
-</div>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e293b,100:0d1117&height=180&section=header&text=Rachmad%20Aziz%20Fazarikha&fontSize=35&fontColor=38bdf8&fontAlignY=38&desc=Fullstack%20Web%20Developer%20%7C%20AI%20Engineer%20%7C%20Software%20Developer&descSize=14&descColor=bae6fd&descAlignY=58)]()
 
-<h1 align="center">Halo, saya Rakha 👋</h1>
+<h1 align="center">Hi there, I'm Rakha 👋</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=550&lines=Junior+Web+Developer;Information+Systems+Student+%40+Trunojoyo+Madura+University;Laravel+%7C+Next.js+%7C+Full-Stack;Always+learning+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0ea5e9&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Web+Developer;AI+Engineer+%26+Software+Developer;B.Sc.+in+Information+Systems+%40+UTM;Web+%7C+AI+%7C+Infrastructure" alt="Typing SVG" />
   </a>
 </div>
 
 ###
 
-<p align="center">Mahasiswa Sistem Informasi Universitas Trunojoyo Madura yang antusias di dunia web development. Fokus pada full-stack development dengan framework modern — Laravel, Next.js, dan Tailwind — untuk membangun solusi yang efisien dan berdampak.</p>
+<p align="center">Full-stack web developer and Information Systems graduate from Universitas Trunojoyo Madura. I design modern web applications, manage server infrastructure, and build AI-powered features — currently working as a <b>Fullstack Web Developer</b>, <b>AI Engineer</b>, and <b>Software Developer</b>.</p>
 
 ###
 
-## ⚡ Tentang Saya
+## ⚡ About Me
 
 ```yaml
 name: Rachmad Aziz Fazarikha
-location: Madura, Indonesia 🇮🇩
-education: Sistem Informasi, Universitas Trunojoyo Madura
-focus: Full-Stack Web Development
-currently_building: [ERP PAKD, ASNAI EdTech Platform]
-learning: [Docker, RAG & AI Integration, Livewire]
-fun_fact: "Konversi PDF jadi audiobook iseng-iseng 📚→🎧"
+location: Surabaya, Indonesia 🇮🇩
+education: B.Sc. Information Systems, Universitas Trunojoyo Madura
+roles: [Fullstack Web Developer, AI Engineer, Software Developer]
+focus: [Modern Web Apps, Server Infrastructure, AI Integration]
 ```
 
 ###
@@ -33,15 +29,11 @@ fun_fact: "Konversi PDF jadi audiobook iseng-iseng 📚→🎧"
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
@@ -53,55 +45,40 @@ fun_fact: "Konversi PDF jadi audiobook iseng-iseng 📚→🎧"
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
 </div>
 
 ###
 
-## 📊 Skill Progress
+## 🚀 Currently Building
 
-<div align="center">
-
-![Laravel](https://img.shields.io/badge/Laravel-85%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-85%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-70%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-65%25-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-60%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-###
-
-## 🚀 Sedang Dikerjakan
-
-<div align="center">
-
-| Project | Deskripsi | Stack |
-|---------|-----------|-------|
-| [erp-pakd](https://github.com/Pak-D-Kingdom/erp-pakd) | Sistem ERP perusahaan (HRD, Payroll, Approval Workflow) | Laravel · Filament · PostgreSQL |
-| [NewElearning](https://github.com/RAFazarikha/NewElearning) | Platform EdTech CPNS "ASNAI" dengan AI Question Generator | Laravel · Next.js · Docker |
-| [pdf-to-audiobook](https://github.com/RAFazarikha/pdf-to-audiobook) | Konversi PDF menjadi audiobook | Python |
-| [scrapping-app](https://github.com/RAFazarikha/scrapping-app) | Aplikasi web scraping | Python |
-
-</div>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [erp-pakd](https://github.com/Pak-D-Kingdom/erp-pakd) | Enterprise ERP (HRD, Payroll, Approval Workflow) | Laravel · Filament · PostgreSQL |
+| [NewElearning](https://github.com/RAFazarikha/NewElearning) | EdTech platform "ASNAI" with AI Question Generator | Laravel · Next.js · Docker |
+| [pdf-to-audiobook](https://github.com/RAFazarikha/pdf-to-audiobook) | PDF to audiobook converter | Python |
+| [scrapping-app](https://github.com/RAFazarikha/scrapping-app) | Web scraping application | Python |
 
 ###
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAFazarikha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&locale=en&hide_border=true" height="165" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=RAFazarikha&theme=midnight-purple&hide_border=true&border_radius=5" height="165" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RAFazarikha&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=RAFazarikha&theme=tokyonight&hide_border=true&border_radius=5" height="165" alt="streak" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RAFazarikha&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=midnight-purple&hide_border=true&cache_seconds=86400" height="165" alt="languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAFazarikha&theme=react-dark&hide_border=true&area=true&area_color=A78BFA&bg_color=1e1b4b&color=e9d5ff&line=A78BFA&point=ffffff" width="100%" alt="activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RAFazarikha&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAFazarikha&theme=tokyonight&hide_border=true&area=true&area_color=0ea5e9&bg_color=0d1117&color=bae6fd&line=0ea5e9&point=ffffff" width="100%" alt="activity graph" />
 </div>
 
 ###
@@ -109,7 +86,7 @@ fun_fact: "Konversi PDF jadi audiobook iseng-iseng 📚→🎧"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RAFazarikha&theme=discord&no-frame=true&no-bg=true&column=7" width="100%" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RAFazarikha&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%" alt="trophies" />
 </div>
 
 ###
@@ -125,12 +102,12 @@ fun_fact: "Konversi PDF jadi audiobook iseng-iseng 📚→🎧"
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAFazarikha&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RAFazarikha&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 </div>
 
 ###
 
-## 🌐 Temukan Saya
+## 🌐 Find Me
 
 <div align="center">
   <a href="https://instagram.com/fzrkha" target="_blank">
@@ -146,9 +123,17 @@ fun_fact: "Konversi PDF jadi audiobook iseng-iseng 📚→🎧"
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
   </a>
   <a href="https://www.facebook.com/rachmad.fazarikha.3?locale=id_ID" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=6282143456658&text&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" />
   </a>
+</div>
+
+###
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e293b,100:0d1117&height=80&section=footer" />
+
+<div align="center">
+<sub>crafted on Arch Linux & CachyOS · powered by caffeine and neural networks</sub>
 </div>
